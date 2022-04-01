@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-### 🔭 I’m currently working on a Platform for cuban freelancers.
-### 🌱 I’m currently learning Vue and GraphQL
+### 🔭 I’m currently enjoying my new life in Berlin
 ### 👯 I’m looking to collaborate on projects as a frontend developer
 ### 🤔 I’m looking for help with any kind of projects
 ### 💬 Ask me about frontend development
