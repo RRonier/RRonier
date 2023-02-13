@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### 🔭 I’m currently enjoying my new life in Berlin
+### 🔭 I’m enjoying my new life as a recident of a free country
 ### 👯 I’m looking to collaborate on projects as a frontend developer
 ### 🤔 I’m looking for help with any kind of projects
 ### 💬 Ask me about frontend development
